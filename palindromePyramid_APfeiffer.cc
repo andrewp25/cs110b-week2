@@ -21,8 +21,8 @@ specified by the user. */
 
     if (pyramidRows > 1 && pyramidRows <= 7)
         {
-            int counter = 1;
-				long base = 1;
+			int counter = 1;
+			long base = 1;
             cout << counter << endl;
             for (counter = 1; counter < pyramidRows; counter++)
             {
